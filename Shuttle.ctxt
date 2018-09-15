@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theCanvas\ theSpaceStation
+comment0.target=Shuttle(Canvas,\ SpaceStation)
+comment1.params=theDirection
+comment1.target=void\ setDirection(java.lang.String)
+comment2.params=
+comment2.target=void\ moveSmallDistance()
+comment3.params=
+comment3.target=FuelCell\ launchCell()
+comment4.params=
+comment4.target=void\ dock()
+comment5.params=
+comment5.target=int\ getNumberFuelCells()
+numComments=6

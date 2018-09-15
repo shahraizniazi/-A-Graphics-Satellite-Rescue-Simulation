@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Controller()
+comment0.text=\r\n\ Create\ Label,\ SpaceStation\ and\ Shuttle\ objects\ for\ the\ canvas\r\n
+comment1.params=
+comment1.target=void\ simulate()
+comment1.text=\r\n\ Creates\ the\ simulation\ environment\ and\ runs\ the\ simulation\r\n\ using\ an\ indefinite\ while\ loop\ that\ looks\ at\ the\ state\ of\ the\ simulation\r\n\ and\ acts\ accordingly\ each\ time\ through\ the\ loop.\r\n
+comment2.params=ke
+comment2.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment2.text=\r\n\ Examines\ the\ keyboard\ character\ that\ was\ just\ pressed\ and\ reacts\ \r\n\ accordingly,\ moving\ up\ or\ down,\ launching\ a\ fuel\ cell,\ setting\ the\ \ \r\n\ motion\ to\ one\ of\ three\ speeds\ or\ stopping\ the\ simulation\r\n
+comment3.params=ke
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.text=\r\n\ Ignore\ methods\ below\ this\ point\r\n
+comment4.params=ke
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=5
